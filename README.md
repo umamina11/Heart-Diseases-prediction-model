@@ -1,2 +1,3 @@
-# MACHINE-LEARNING
-Differnt machine learning algorithms 
+# Heart diseases Prediction model 
+Differnt machine learning algorithms like the KNN, SVM, Logistic regression and others
+
